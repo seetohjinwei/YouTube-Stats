@@ -21,7 +21,7 @@ Requirements:
 Instructions to use:
 1. Download `main.py` and `videos.csv`
 2. Add your API key onto line 53 (near the end) of `main.py`
-3. Paste a YouTube video URL (only the ID portion) on a separate line each
+3. In `videos.csv`, paste a YouTube video URL on a separate line each
 4. [Optional] Add a name to a video by adding `,NAME` to the end of the url
 5. Run `main.py` with `videos.csv` in the same folder.
 
